@@ -21,6 +21,8 @@ export const Container = styled.div<ContainerProps>`
         color: #fff;
         text-decoration: none;
         font-size: 16px;
+        opacity: 0.6;
+        padding-bottom: 10px;
         transition: opacity 0.2s;
 
         & + a {
@@ -28,7 +30,12 @@ export const Container = styled.div<ContainerProps>`
         }
 
         &:hover {
-          opacity: 0.6;
+          opacity: 1;
+        }
+
+        &.active {
+          border-bottom: 2px solid #ff872c;
+          opacity: 1;
         }
       }
     }
