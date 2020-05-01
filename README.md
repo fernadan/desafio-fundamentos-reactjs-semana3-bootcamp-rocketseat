@@ -1,7 +1,7 @@
 ![enter image description here](https://github.com/fernadan/desafio-fundamentos-reactjs-semana3-bootcamp-rocketseat/blob/master/src/assets/logo-readme.png?raw=true)
-# GoFinance - GoStack BootCamp
+# GoFinances - GoStack BootCamp
 
-Oi! Você está agora no repositório da aplicação **GoFinance**. Basicamente o que fazemos aqui é tratar de transações financeiras pessoais. Se quiser controlar o que entra e sai da sua conta no banco, **esse aqui é o seu lugar**!
+Oi! Você está agora no repositório da aplicação **GoFinances**. Basicamente o que fazemos aqui é tratar de transações financeiras pessoais. Se quiser controlar o que entra e sai da sua conta no banco, **esse aqui é o seu lugar**!
 
 
 # Funcionalidades
@@ -41,9 +41,9 @@ Para utilizar esta aplicação é bem fácil. Segue os pontos abaixo e entender�
 Após a aplicação ter sido baixada, através do **terminal**, execute o comando `yarn` na pasta onde estão os arquivos, para que sejam instaladas todas as dependências da aplicação.
 
 ## Executar a API Node
-Para que a aplicação **GoFinance** funcione, é necessário que a api disponível para ele esteja sendo executada.
+Para que a aplicação **GoFinances** funcione, é necessário que a api disponível para ele esteja sendo executada.
 
-Após executar a API e constatar que a mesma está em execução, será necessária a configuração da URL da mesma na aplicação **GoFinance**.
+Após executar a API e constatar que a mesma está em execução, será necessária a configuração da URL da mesma na aplicação **GoFinances**.
 
 O arquivo a ser configurado com a URL é o:
 > src/services/api.ts
